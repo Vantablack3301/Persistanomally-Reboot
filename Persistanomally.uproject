@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{46869606-4B68-B8DB-8ACD-948BB70D4489}",
+	"EngineAssociation": "PersistenceEngine",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
